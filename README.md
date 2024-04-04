@@ -76,11 +76,11 @@ endmodule
 ![RTL 2](https://github.com/MOHAMEDAAKIFASRAR/ENCODER8TO3DATAFLOW/assets/148514683/9963757a-6250-453a-9ee6-4722713b2349)
 
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**:
 ![TIMEFLOW2](https://github.com/MOHAMEDAAKIFASRAR/ENCODER8TO3DATAFLOW/assets/148514683/c07d813e-fcc7-4372-be14-3988f8b4faaa)
 
 
-**RESULT**
+**RESULT**:
 ~~~
 Thus the given experiment was completed successfully.
 ~~~
