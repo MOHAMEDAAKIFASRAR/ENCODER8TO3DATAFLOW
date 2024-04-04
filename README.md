@@ -1,5 +1,6 @@
 ## NAME:MOHAMEDAAKIFASRAR S
 ## REG NO:212223240088
+
 ### ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
@@ -79,8 +80,10 @@ endmodule
 ![TIMEFLOW2](https://github.com/MOHAMEDAAKIFASRAR/ENCODER8TO3DATAFLOW/assets/148514683/c07d813e-fcc7-4372-be14-3988f8b4faaa)
 
 
-**RESULTS**
+**RESULT**
+~~~
 Thus the given experiment was completed successfully.
+~~~
 
 
 
